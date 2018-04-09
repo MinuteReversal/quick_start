@@ -8,6 +8,12 @@
 //import Main from "./05.State and Lifecycle/04.Adding Lifecycle Methods to a Class"
 //import Main from "./06.Handling Events/01"
 //import Main from "./06.Handling Events/02"
-import Main from "./06.Handling Events/03.Passing Arguments to Event Handlers"
+//import Main from "./07.Conditional Rendering/02"
+//import Main from "./07.Conditional Rendering/04.Inline If-Else with Conditional Operator"
+//import Main from "./07.Conditional Rendering/05.Preventing Component from Rendering"
+//import Main from "./08.Lists and Keys/01"
+//import Main from "./08.Lists and Keys/02.Basic List Component"
+//import Main from "./08.Lists and Keys/03.Keys"
+import Main from "./08.Lists and Keys/04.Embedding map() in JSX"
 
 new Main();
