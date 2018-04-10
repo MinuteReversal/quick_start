@@ -17,6 +17,8 @@
 //import Main from "./08.Lists and Keys/04.Embedding map() in JSX"
 //import Main from "./09.Forms/01.Controlled Components"
 //import Main from "./09.Forms/02.The select Tag"
-import Main from "./09.Forms/03.Handling Multiple Inputs"
+//import Main from "./09.Forms/03.Handling Multiple Inputs"
+//import Main from "./10.Lifting State Up/01"
+import Main from "./11.Composition vs Inheritance/01"
 
 new Main();
